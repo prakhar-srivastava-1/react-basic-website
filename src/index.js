@@ -14,7 +14,7 @@ ReactDOM.render(
     <div>
       Created by: Prakhar
       <br />
-      &copy Copyright {new Date().getFullYear()}
+      &copy; Copyright {new Date().getFullYear()}
     </div>
   </div>,
   document.getElementById("root")
